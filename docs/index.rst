@@ -1,0 +1,5 @@
+=================
+collective.ygopro
+=================
+
+User documentation
